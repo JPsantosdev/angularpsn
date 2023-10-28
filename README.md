@@ -1,6 +1,7 @@
-# PnsLoja
+# PSNStore (alpha)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+This project was made as part of the DIO + Santander Full-Stack Bootcamp in order to learn and understand the building proccess of an Angular Webpage. It consisted on looking at the old layout of the Playstation Store webpage and replicating with the Angular Framework by using HTML5, CSS3 and TypeScript.
 
 ## Development server
 
